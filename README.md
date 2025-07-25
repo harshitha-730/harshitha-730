@@ -1,4 +1,4 @@
-<picture>
+<div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://github.com/user-attachments/assets/3fd718c6-1f5b-48d6-8ef9-9b431b2fbecc)">
   <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://github.com/user-attachments/assets/3fd718c6-1f5b-48d6-8ef9-9b431b2fbecc)">
   <img alt="Banner image with light/dark mode support" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -6,8 +6,10 @@
 
 <div align="center">
 
-# 👋 Hello there! I'm Harshitha 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70A0A&center=true&vCenter=true&width=440&lines=Hema+Sri+Harshitha+Mutyala;AI+%2F+ML+Enthusiast;Final+Year+Student+%7C+CSE+-+AIML;Smart+Problem+Solver+🧠;Creative+Writer+%7C+Visionary+Mind+🌱" alt="Typing SVG" />
+## <p align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=8F7ADA&width=600&lines=Hello+There!+%2C+I'm+Hema+Sri+Harshitha+Mutyala+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Final+Year+AI%2FML+Student+%40+SPHN;Tech+Enthusiast+%7C+Python+%7C+Java+%7C+SQL)
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/sriharshitha-mutyala)
 [![Mail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:harshithamutyala730@gmail.com)
